@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class MainMap {
+public class MainMap  {
 
 	public static void main(String[] args) {
 		String sentence = "To be or not to be";
