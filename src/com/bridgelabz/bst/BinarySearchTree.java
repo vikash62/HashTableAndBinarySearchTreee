@@ -77,5 +77,4 @@ public class BinarySearchTree {
 			search(root.right, data, root);
 		}
 	}
-
 }
